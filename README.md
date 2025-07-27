@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 Movie Recommender System
 
 A content-based movie recommender app built with **Python**, **Streamlit**, and the **OMDb API**. Select a movie and get personalized recommendations with poster previews and similarity scores.
@@ -120,4 +121,6 @@ Made with ❤️ by Piyush Mishra
 📧 piyushmishra27j@gmail.com
 🌐 linkedin.com/in/mishrapm
 
+=======
+>>>>>>> ed0dc2fde92801d2a4289e7a7489f4a379d4b01c
 
