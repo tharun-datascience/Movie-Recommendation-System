@@ -5,11 +5,6 @@ A content-based movie recommender app built with **Python**, **Streamlit**, and 
 
 ---
 
-## 🚀 Live Demo
-
-🔗 Try the app here: [https://huggingface.co/spaces/astroguy07/movie-rs-pm](https://huggingface.co/spaces/astroguy07/movie-rs-pm)
-
----
 
 ## 📌 Features
 
