@@ -112,15 +112,3 @@ Register at OMDb API for a free key and replace the placeholder in app.py.
 
 ✨ Future Improvements
 Deploy on Streamlit Cloud with secret management.
-
-Add genre and year filters.
-
-Enhance similarity using NLP embeddings (TF-IDF, BERT).
-
-Made with ❤️ by Piyush Mishra
-📧 piyushmishra27j@gmail.com
-🌐 linkedin.com/in/mishrapm
-
-=======
->>>>>>> ed0dc2fde92801d2a4289e7a7489f4a379d4b01c
-
